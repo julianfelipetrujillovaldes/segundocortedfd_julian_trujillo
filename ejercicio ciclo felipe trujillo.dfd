@@ -1,0 +1,122 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'ingrese diez valores de productos'
+6
+3
+11
+acumuladora
+1
+0
+9
+new_valor
+1
+0
+5
+pagar
+1
+0
+5
+1
+5
+valor
+6
+1
+9
+new_valor
+5
+valor
+8
+1
+1
+i
+1
+1
+2
+1
+2
+10
+1
+1
+1
+6
+1
+11
+acumuladora
+19
+acumuladora + valor
+7
+0
+1
+15
+valor<new_valor
+13
+6
+1
+9
+new_valor
+5
+valor
+13
+5
+1
+5
+valor
+10
+6
+2
+3
+iva
+16
+acumuladora*0.19
+5
+total
+15
+acumuladora+iva
+7
+0
+1
+13
+total >500000
+13
+6
+2
+9
+descuento
+11
+total* 0.15
+5
+pagar
+17
+total - descuento
+13
+4
+1
+34
+'el total a pagar es ',acumuladora
+4
+1
+32
+' el valor menor es ', new_valor
+4
+1
+43
+'el total a pagar iva incluido es: ', total
+7
+0
+1
+13
+total >500000
+13
+4
+1
+53
+'el total a pagar si el descuento aplica es: ', pagar
+13
+1
